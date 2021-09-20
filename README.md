@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Java Framework Spring Boot
 - 👯 I’m looking to collaborate on ... A group project using Spring Boot
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Gmail](tajbiurshahriorrimon@gmail.com)
+- 📫 How to reach me: ... (tajbiurshahriorrimon@gmail.com)
 - ⚡ Fun fact: ... Nothing funny! 🙂
 - 🧑‍💼 Job:... I am an undergaduate University Student!
 - 🧑‍🎓 Institution: [American International University-Bangladesh (AIUB)](https://www.aiub.edu/)
