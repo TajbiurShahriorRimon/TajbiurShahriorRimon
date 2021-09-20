@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**TajbiurShahriorRimon/TajbiurShahriorRimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### This is me Tajbiur Shahrior Rimon 👋
 
 - 🔭 I’m currently working on ... ASP.NET MVC Project. (https://github.com/TajbiurShahriorRimon/EduMax--Online-Teaching-And-Learning-Platform)
 - 🌱 I’m currently learning ... Java Framework Spring Boot
@@ -16,5 +11,3 @@ Here are some ideas to get you started:
 - 🧑‍💼 Job:... I am an undergaduate University Student!
 - 🧑‍🎓 Institution: [American International University-Bangladesh (AIUB)](https://www.aiub.edu/)
 - 🔍 Looiking for a Job as a .NET or Laravel developer
--->
-
