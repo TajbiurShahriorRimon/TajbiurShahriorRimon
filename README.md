@@ -25,8 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tajbiurshahriorrimon&show_icons=true&locale=en&layout=compact" alt="tajbiurshahriorrimon" /></p>
 
----
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tajbiurshahriorrimon&show_icons=true&locale=en" alt="tajbiurshahriorrimon" /></p>
 
 ---
