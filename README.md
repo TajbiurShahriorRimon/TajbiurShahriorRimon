@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ... Nothing funny! 🙂
 - 🧑‍💼 Job:... I am an undergaduate University Student!
 - 🧑‍🎓 Institution: [American International University-Bangladesh (AIUB)](https://www.aiub.edu/)
-- 🔍 Looiking for a Job as a .NET or Laravel developer
+- 🔍 Looking for a Job as a .NET or Laravel developer
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajbiurshahriorrimon&label=Profile%20views&color=0e75b6&style=flat" alt="tajbiurshahriorrimon" /> </p>
