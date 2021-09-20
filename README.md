@@ -30,3 +30,6 @@
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tajbiurshahriorrimon&" alt="tajbiurshahriorrimon" /></p>
+---
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tajbiurshahriorrimon&repo=github-readme-stats" />
