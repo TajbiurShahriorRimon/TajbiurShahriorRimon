@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Java Framework Spring Boot
 - 👯 I’m looking to collaborate on ... A group project using Spring Boot
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... (tajbiurshahriorrimon@gmail.com)
+- 📫 How to reach me: ... tajbiurshahriorrimon@gmail.com
 - ⚡ Fun fact: ... Nothing funny! 🙂
 - 🧑‍💼 Job:... I am an undergaduate University Student!
 - 🧑‍🎓 Institution: [American International University-Bangladesh (AIUB)](https://www.aiub.edu/)
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/tajbiurshahrior.rimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tajbiurshahrior.rimon" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/tajbiurshahrior.rimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
