@@ -13,4 +13,4 @@
 - 🔍 Looiking for a Job as a .NET or Laravel developer
 
 ---
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tajbiurshahriorrimon&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TajbiurShahriorRimon&show_icons=true&hide_border=true" />
